@@ -1,3 +1,6 @@
+function diff(){
+    
+}
 
 module.exports = {
     check: () => {},
@@ -6,5 +9,6 @@ module.exports = {
     commit: () => {},
     rollback: () => {},
     export: () => {},
-    show: () => {}
+    show: () => {},
+    diff: () => {}
 }

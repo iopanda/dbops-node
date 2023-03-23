@@ -7,5 +7,6 @@ module.exports = {
     commit: () => {},
     rollback: () => {},
     export: () => {},
-    show: () => {}
+    show: () => {},
+    diff: () => {}
 }
